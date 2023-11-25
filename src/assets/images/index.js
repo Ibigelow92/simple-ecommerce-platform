@@ -1,5 +1,8 @@
 import logo from "./orebiLogo.png";
 import logoLight from "./logoLight.png";
+//
+import EZShopLogo from "./EZShopLogo.png";
+//
 import electronicsBanner from "./banner/electronics-banner.png";
 import furnitureBanner from "./banner/furniture-banner.png";
 import sportsBanner from "./banner/sports-banner.png";
