@@ -38,6 +38,7 @@ import emptyCart from "../images/emptyCart.png";
 export {
   logo,
   logoLight,
+  EZShopLogo,
   electronicsBanner,
   furnitureBanner,
   sportsBanner,
