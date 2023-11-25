@@ -1,9 +1,7 @@
 import logo from "./orebiLogo.png";
 import logoLight from "./logoLight.png";
-import bannerImgOne from "./banner/bannerImgOne.webp";
-import bannerImgTwo from "./banner/bannerImgTwo.webp";
-import bannerImgThree from "./banner/bannerImgThree.webp";
-//
+import electronicsBanner from "./banner/electronics-banner.png";
+import furnitureBanner from "./banner/furniture-banner.png";
 import sportsBanner from "./banner/sports-banner.png";
 //
 import saleImgOne from "./sale/saleImgOne.webp";
@@ -37,9 +35,8 @@ import emptyCart from "../images/emptyCart.png";
 export {
   logo,
   logoLight,
-  bannerImgOne,
-  bannerImgTwo,
-  bannerImgThree,
+  electronicsBanner,
+  furnitureBanner,
   sportsBanner,
   saleImgOne,
   saleImgTwo,
