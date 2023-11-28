@@ -116,7 +116,7 @@ const SignUp = () => {
         zip
       ) {
         setSuccessMsg(
-          `Hello dear ${clientName}, Welcome you to OREBI Admin panel. We received your Sign up request. We are processing to validate your access. Till then stay connected and additional assistance will be sent to you by your mail at ${email}`
+          `Hello dear ${clientName}, Welcome you to EZ-Shop Admin panel. We received your Sign up request. We are processing to validate your access. Till then stay connected and additional assistance will be sent to you by your mail at ${email}`
         );
         setClientName("");
         setEmail("");
@@ -161,7 +161,7 @@ const SignUp = () => {
             </span>
             <p className="text-base text-gray-300">
               <span className="text-white font-semibold font-titleFont">
-                Access all OREBI services
+                Access all EZ-Shop services
               </span>
               <br />
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab omnis
@@ -379,7 +379,7 @@ const SignUp = () => {
                     type="checkbox"
                   />
                   <p className="text-sm text-primeColor">
-                    I agree to the OREBI{" "}
+                    I agree to the EZ-Shop{" "}
                     <span className="text-blue-500">Terms of Service </span>and{" "}
                     <span className="text-blue-500">Privacy Policy</span>.
                   </p>
