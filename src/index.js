@@ -16,4 +16,4 @@ root.render(
   </Provider>
 );
 
-// Use Pexels to change photos
+app.listen(process.env.PORT || 4000);
